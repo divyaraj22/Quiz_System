@@ -1,7 +1,7 @@
 # Quiz_System
 SpringBoot Project
 
-Using Maven:
+Run Project Using Maven:
 
 1.Open your terminal/command prompt.
 
@@ -10,7 +10,7 @@ Using Maven:
 3.Run the following command to build and run your Spring Boot application:
 mvn spring-boot:run
 
-Using Gradle:
+Run Project Using Gradle:
 
 1.Open your terminal/command prompt.
 
